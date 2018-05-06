@@ -1,0 +1,11 @@
+black
+blue
+brown
+green
+orange
+peach
+purple
+red
+salmon
+white
+yellow
